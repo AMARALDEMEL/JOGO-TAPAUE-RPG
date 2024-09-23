@@ -1,0 +1,20 @@
+C:\Users\j02\Documents\LUCAS AMARAL GONÇALVES\Lógica de programação\C#\JOGO TAPAUE\JOGO OFICIAL\bin\Debug\net8.0\JOGO OFICIAL.exe
+C:\Users\j02\Documents\LUCAS AMARAL GONÇALVES\Lógica de programação\C#\JOGO TAPAUE\JOGO OFICIAL\bin\Debug\net8.0\JOGO OFICIAL.deps.json
+C:\Users\j02\Documents\LUCAS AMARAL GONÇALVES\Lógica de programação\C#\JOGO TAPAUE\JOGO OFICIAL\bin\Debug\net8.0\JOGO OFICIAL.runtimeconfig.json
+C:\Users\j02\Documents\LUCAS AMARAL GONÇALVES\Lógica de programação\C#\JOGO TAPAUE\JOGO OFICIAL\bin\Debug\net8.0\JOGO OFICIAL.dll
+C:\Users\j02\Documents\LUCAS AMARAL GONÇALVES\Lógica de programação\C#\JOGO TAPAUE\JOGO OFICIAL\bin\Debug\net8.0\JOGO OFICIAL.pdb
+C:\Users\j02\Documents\LUCAS AMARAL GONÇALVES\Lógica de programação\C#\JOGO TAPAUE\JOGO OFICIAL\obj\Debug\net8.0\JOGO OFICIAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j02\Documents\LUCAS AMARAL GONÇALVES\Lógica de programação\C#\JOGO TAPAUE\JOGO OFICIAL\obj\Debug\net8.0\JOGO OFICIAL.AssemblyInfoInputs.cache
+C:\Users\j02\Documents\LUCAS AMARAL GONÇALVES\Lógica de programação\C#\JOGO TAPAUE\JOGO OFICIAL\obj\Debug\net8.0\JOGO OFICIAL.AssemblyInfo.cs
+C:\Users\j02\Documents\LUCAS AMARAL GONÇALVES\Lógica de programação\C#\JOGO TAPAUE\JOGO OFICIAL\obj\Debug\net8.0\JOGO OFICIAL.csproj.CoreCompileInputs.cache
+C:\Users\j02\Documents\LUCAS AMARAL GONÇALVES\Lógica de programação\C#\JOGO TAPAUE\JOGO OFICIAL\obj\Debug\net8.0\JOGO OFICIAL.sourcelink.json
+C:\Users\j02\Documents\LUCAS AMARAL GONÇALVES\Lógica de programação\C#\JOGO TAPAUE\JOGO OFICIAL\obj\Debug\net8.0\JOGO OFICIAL.dll
+C:\Users\j02\Documents\LUCAS AMARAL GONÇALVES\Lógica de programação\C#\JOGO TAPAUE\JOGO OFICIAL\obj\Debug\net8.0\refint\JOGO OFICIAL.dll
+C:\Users\j02\Documents\LUCAS AMARAL GONÇALVES\Lógica de programação\C#\JOGO TAPAUE\JOGO OFICIAL\obj\Debug\net8.0\JOGO OFICIAL.pdb
+C:\Users\j02\Documents\LUCAS AMARAL GONÇALVES\Lógica de programação\C#\JOGO TAPAUE\JOGO OFICIAL\obj\Debug\net8.0\JOGO OFICIAL.genruntimeconfig.cache
+C:\Users\j02\Documents\LUCAS AMARAL GONÇALVES\Lógica de programação\C#\JOGO TAPAUE\JOGO OFICIAL\obj\Debug\net8.0\ref\JOGO OFICIAL.dll
+C:\Users\j02\Documents\LUCAS AMARAL GONÇALVES\Lógica de programação\C#\JOGO TAPAUE\build\JOGO OFICIAL.exe
+C:\Users\j02\Documents\LUCAS AMARAL GONÇALVES\Lógica de programação\C#\JOGO TAPAUE\build\JOGO OFICIAL.deps.json
+C:\Users\j02\Documents\LUCAS AMARAL GONÇALVES\Lógica de programação\C#\JOGO TAPAUE\build\JOGO OFICIAL.runtimeconfig.json
+C:\Users\j02\Documents\LUCAS AMARAL GONÇALVES\Lógica de programação\C#\JOGO TAPAUE\build\JOGO OFICIAL.dll
+C:\Users\j02\Documents\LUCAS AMARAL GONÇALVES\Lógica de programação\C#\JOGO TAPAUE\build\JOGO OFICIAL.pdb
